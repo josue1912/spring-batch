@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/primeiroprojetospringbatch/primeiroprojetospringbatch.iml" filepath="$PROJECT_DIR$/primeiroprojetospringbatch/primeiroprojetospringbatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-batch.iml" filepath="$PROJECT_DIR$/.idea/spring-batch.iml" />
     </modules>
   </component>

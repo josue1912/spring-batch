@@ -22,10 +22,12 @@
       </map>
     </option>
   </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/primeiroprojetospringbatch/pom.xml" />
+        <option value="$PROJECT_DIR$/ParImparJob/pom.xml" />
       </list>
     </option>
   </component>
