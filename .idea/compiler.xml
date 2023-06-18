@@ -11,11 +11,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ParImparJob" />
         <module name="primeiroprojetospringbatch" />
+        <module name="ArquivoLarguraFixaJob" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ArquivoLarguraFixaJob" options="-parameters" />
       <module name="ParImparJob" options="-parameters" />
       <module name="primeiroprojetospringbatch" options="-parameters" />
     </option>

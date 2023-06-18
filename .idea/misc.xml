@@ -28,6 +28,7 @@
       <list>
         <option value="$PROJECT_DIR$/primeiroprojetospringbatch/pom.xml" />
         <option value="$PROJECT_DIR$/ParImparJob/pom.xml" />
+        <option value="$PROJECT_DIR$/ArquivoLarguraFixaJob/pom.xml" />
       </list>
     </option>
   </component>
