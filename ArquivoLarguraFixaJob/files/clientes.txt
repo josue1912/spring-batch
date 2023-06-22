@@ -1,3 +1,5 @@
 João      Silva     32 joao@test.com       
 Maria     Silva     30 maria@test.com      
-José      Silva     20 jose@test.com       
+José      Silva     20 jose@test.com
+Bianca    Freitas   35 bianca@test.com
+Josue     Freitas   40 josue@test.com
